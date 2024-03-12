@@ -11,8 +11,9 @@ Agents  - Agents use LLM's to decide what actions should be takesn, tools like w
 
 Memory: Short-term Memory and Long term memory
 
+python -m venc llm-ai
 pip install -qu langchain
-
+pip install huggingface_hub
 
 ```
 
