@@ -1,8 +1,10 @@
 ## ChatGPT
 
 GPT = Generative Pre-Trained Transformer
+NLP - 
 
 ## LangChain
+## Source - https://www.youtube.com/watch?v=nE2skSRWTTs&list=PLIUOU7oqGTLieV9uTIFMm6_4PXg-hlN6F
 ```
 https://www.youtube.com/watch?v=lG7Uxts9SXs
 ```
