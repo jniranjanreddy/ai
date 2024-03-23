@@ -1,4 +1,5 @@
 ## ChatGPT
+## Gen AI - full course - https://www.youtube.com/watch?v=mEsleV16qdo
 
 GPT = Generative Pre-Trained Transformer
 NLP - Natural Language Processing
