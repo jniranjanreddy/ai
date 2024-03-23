@@ -1,18 +1,28 @@
 ## ChatGPT
 ## Gen AI - full course - https://www.youtube.com/watch?v=mEsleV16qdo
-
+```
 GPT = Generative Pre-Trained Transformer
 NLP - Natural Language Processing
 RAG - Retrieval-Augmented Generation
+ChatGpt
+Google Bard
+Meta llama2
+```
+```
+Deep Learning, can ebe divided to three topics
+   1. ANN - Artificial Neural Network
+   2. CNN - Conolution Neural Network
+   3. RNN - Recurrent Neural network
+   4. RL  - Reinforcement Learning
+   5. GAN - Generative Advisol Network
+  
+```
 
 ## LangChain
 ## Source - https://www.youtube.com/watch?v=nE2skSRWTTs&list=PLIUOU7oqGTLieV9uTIFMm6_4PXg-hlN6F
 ```
 https://www.youtube.com/watch?v=lG7Uxts9SXs
 ```
-
-
-
 ## Example
 ```
 Ubuntu WSL
@@ -29,6 +39,5 @@ cd .\langchain-helloworld\
 python3.10.exe -m venv .venv
  .\.venv\Scripts\activate
 pip install langchain openai streamlit python-dotenv
-
-
 ```
+![image](https://github.com/jniranjanreddy/ai/assets/83489863/050fcde6-4f45-421c-b0a0-f7208d471bd0)
