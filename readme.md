@@ -1,7 +1,8 @@
 ## ChatGPT
 
 GPT = Generative Pre-Trained Transformer
-NLP - 
+NLP - Natural Language Processing
+RAG - Retrieval-Augmented Generation
 
 ## LangChain
 ## Source - https://www.youtube.com/watch?v=nE2skSRWTTs&list=PLIUOU7oqGTLieV9uTIFMm6_4PXg-hlN6F
