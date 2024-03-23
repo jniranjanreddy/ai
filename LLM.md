@@ -1,4 +1,5 @@
 ## https://github.com/pinecone-io/examples/tree/master/learn/generation/langchain
+## https://www.youtube.com/watch?v=6gn2J3hCrN8&t=1s
 ```
 Language Models - It can be used for chatbots, Generative Question-Answering(GQA), Summorization, and much more
 
