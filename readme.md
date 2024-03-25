@@ -15,7 +15,37 @@ Deep Learning, can ebe divided to three topics
    3. RNN - Recurrent Neural network
    4. RL  - Reinforcement Learning
    5. GAN - Generative Advisol Network
-  
+   6. Attention Is All you Need - research paper
+
+Open AI Based LLM's  - These are charged based on Tpkens
+1. GPT-4
+2. GPT.3.5
+3. GPT Base
+4. DALL-E
+5. Whisper
+6. Embeddings
+7. Modernizations
+
+
+## OpenSource based LLM's
+1. BLOOM
+2. Llama2
+3. PaLM
+4. Falcon
+5. Claude
+6. MPT-30B
+7. StableLm
+
+
+
+
+
+
+
+
+
+
+
 ```
 
 ## LangChain
@@ -41,3 +71,7 @@ python3.10.exe -m venv .venv
 pip install langchain openai streamlit python-dotenv
 ```
 ![image](https://github.com/jniranjanreddy/ai/assets/83489863/050fcde6-4f45-421c-b0a0-f7208d471bd0)
+
+## Transformer
+![image](https://github.com/jniranjanreddy/ai/assets/83489863/1f882179-7b05-4bd0-9ddf-a670f2157910)
+
