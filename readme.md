@@ -1,5 +1,11 @@
-## ChatGPT
+## OpenAI
+
 ## Gen AI - full course - https://www.youtube.com/watch?v=mEsleV16qdo
+
+```
+OpenAI was founded in 2015, by Sam Altman and Elon Musk, as non profy organization.
+```
+
 ```
 GPT = Generative Pre-Trained Transformer
 NLP - Natural Language Processing
