@@ -5,6 +5,7 @@
 ```
 OpenAI was founded in 2015, by Sam Altman and Elon Musk, as non profy organization.
 ```
+## Azure AI - https://www.youtube.com/watch?v=hHjmr_YOqnU
 
 ```
 GPT = Generative Pre-Trained Transformer
