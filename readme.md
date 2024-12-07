@@ -82,3 +82,4 @@ pip install langchain openai streamlit python-dotenv
 ## Transformer
 ![image](https://github.com/jniranjanreddy/ai/assets/83489863/1f882179-7b05-4bd0-9ddf-a670f2157910)
 
+## AI 900 - https://www.youtube.com/watch?v=hHjmr_YOqnU&t=1s
