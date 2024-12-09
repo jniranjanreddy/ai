@@ -1,6 +1,10 @@
 ## OpenAI
 
 ## Gen AI - full course - https://www.youtube.com/watch?v=mEsleV16qdo
+## Azure AI 102 - https://www.youtube.com/watch?v=scJ4mobwjBQ&t=48s
+## Prep Exam - https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-ai-102-plan-and-manage-an-azure-ai-solution
+## https://www.exampro.co/ai-900
+## https://www.exampro.co/ai-102
 
 ```
 OpenAI was founded in 2015, by Sam Altman and Elon Musk, as non profy organization.
