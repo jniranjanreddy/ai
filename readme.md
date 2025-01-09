@@ -91,3 +91,4 @@ pip install langchain openai streamlit python-dotenv
 ![image](https://github.com/user-attachments/assets/d029eee7-2753-4fb9-9b7b-794cd0c766af)
 
 ## Prompt Flow - https://microsoft.github.io/promptflow/
+# https://github.com/ExamProCo/Azure-Examples
