@@ -5,6 +5,10 @@
 ## Prep Exam - https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-ai-102-plan-and-manage-an-azure-ai-solution
 ## https://www.exampro.co/ai-900
 ## https://www.exampro.co/ai-102
+## RAG
+## Document cracking
+## Modalities
+
 
 ```
 OpenAI was founded in 2015, by Sam Altman and Elon Musk, as non profy organization.
