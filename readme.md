@@ -10,6 +10,9 @@
 ## Modalities
 
 
+## AI tutorials
+## https://www.youtube.com/watch?v=0FPLbtKbw1g&list=PLNzPSumm2VgXKTnpZRYXqtDTrXKzhkSjw - Anjali
+
 ```
 OpenAI was founded in 2015, by Sam Altman and Elon Musk, as non profy organization.
 ```
