@@ -102,6 +102,7 @@ pip install langchain openai streamlit python-dotenv
 
 ## LLM Evaluations
 ```
+Perplexity
 Fluency
 Coherence
 relevencxe
