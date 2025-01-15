@@ -99,3 +99,21 @@ pip install langchain openai streamlit python-dotenv
 
 ## Prompt Flow - https://microsoft.github.io/promptflow/
 # https://github.com/ExamProCo/Azure-Examples
+
+## LLM Evaluations
+```
+Fluency
+Coherence
+relevencxe
+BLEU Score  -  Bilingual Evaluation Understudy.
+Rouge - Recall Oriented Understady for Gisting Evaluation
+Fidelity and Diversity
+```
+## 
+
+
+
+
+
+
+
