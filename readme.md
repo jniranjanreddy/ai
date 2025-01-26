@@ -110,7 +110,12 @@ BLEU Score  -  Bilingual Evaluation Understudy.
 Rouge - Recall Oriented Understady for Gisting Evaluation
 Fidelity and Diversity
 ```
-## 
+## Named Entity Recognition 
+```
+1. system Prompt
+2. User Prompt
+3. Assistant Prompt
+```
 
 
 
