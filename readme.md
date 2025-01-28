@@ -8,6 +8,8 @@
 ## RAG
 ## Document cracking
 ## Modalities
+## Rag architecture
+![image](https://github.com/user-attachments/assets/bfcb00a2-9203-4acc-9856-5e3a9074054a)
 
 
 ## AI tutorials
