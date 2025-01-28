@@ -6,7 +6,7 @@ from openai import OpenAI
 config = dotenv_values(".env")
 
 openai.api_key = config["OPENAI_API_KEY"]
-#client = OpenAI(api_key="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")
+#client = OpenAI(api_key="key")
 
 client.completions.create(
     model="text-davinci-003",
