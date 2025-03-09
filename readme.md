@@ -12,6 +12,8 @@
 ![image](https://github.com/user-attachments/assets/bfcb00a2-9203-4acc-9856-5e3a9074054a)
 ## Deep Seek - https://www.youtube.com/watch?v=9jtBIbSOo1g
 
+
+
 ## AI tutorials
 ## https://www.youtube.com/watch?v=0FPLbtKbw1g&list=PLNzPSumm2VgXKTnpZRYXqtDTrXKzhkSjw - Anjali
 
