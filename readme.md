@@ -121,6 +121,7 @@ Fidelity and Diversity
 3. Assistant Prompt
 ```
 
+<img width="1070" height="472" alt="image" src="https://github.com/user-attachments/assets/e9b581e6-d3cd-41d2-b618-e9b11bffc06b" />
 
 
 
