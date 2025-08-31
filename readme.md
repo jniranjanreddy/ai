@@ -10,8 +10,6 @@
 ## Modalities
 ## Rag architecture
 ![image](https://github.com/user-attachments/assets/bfcb00a2-9203-4acc-9856-5e3a9074054a)
-## Deep Seek - https://www.youtube.com/watch?v=9jtBIbSOo1g
-
 
 
 ## AI tutorials
@@ -30,6 +28,11 @@ ChatGpt
 Google Bard
 Meta llama2
 ```
+NumPy: For numerical computations.
+Pandas: For data manipulation.
+Scikit-learn: For traditional ML models (e.g., regression, classification).
+TensorFlow: For neural networks (PyTorch is an alternative, but TensorFlow is beginner-friendly).
+
 ```
 Deep Learning, can ebe divided to three topics
    1. ANN - Artificial Neural Network
@@ -121,7 +124,6 @@ Fidelity and Diversity
 3. Assistant Prompt
 ```
 
-<img width="1070" height="472" alt="image" src="https://github.com/user-attachments/assets/e9b581e6-d3cd-41d2-b618-e9b11bffc06b" />
 
 
 
