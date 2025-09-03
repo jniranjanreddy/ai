@@ -1,5 +1,5 @@
 ## OpenAI
-
+## Langchain - https://www.youtube.com/watch?v=_FpT1cwcSLg&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar&index=2
 ## Gen AI - full course - https://www.youtube.com/watch?v=mEsleV16qdo
 ## Azure AI 102 - https://www.youtube.com/watch?v=scJ4mobwjBQ&t=48s
 ## Prep Exam - https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-ai-102-plan-and-manage-an-azure-ai-solution
@@ -123,6 +123,7 @@ Fidelity and Diversity
 2. User Prompt
 3. Assistant Prompt
 ```
+
 
 
 
