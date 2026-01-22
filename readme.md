@@ -14,6 +14,12 @@
 ```
 https://www.youtube.com/watch?v=q1TEDBy3NbI
 https://www.youtube.com/watch?v=zAHvJAEyhZ0
+Tools:
+```
+https://www.pythagora.ai/
+https://bolt.new/
+```
+
 ```
 
 ## AI tutorials
@@ -127,6 +133,7 @@ Fidelity and Diversity
 2. User Prompt
 3. Assistant Prompt
 ```
+
 
 
 
