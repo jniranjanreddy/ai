@@ -10,7 +10,11 @@
 ## Modalities
 ## Rag architecture
 ![image](https://github.com/user-attachments/assets/bfcb00a2-9203-4acc-9856-5e3a9074054a)
-
+## Prompt Engineering
+```
+https://www.youtube.com/watch?v=q1TEDBy3NbI
+https://www.youtube.com/watch?v=zAHvJAEyhZ0
+```
 
 ## AI tutorials
 ## https://www.youtube.com/watch?v=0FPLbtKbw1g&list=PLNzPSumm2VgXKTnpZRYXqtDTrXKzhkSjw - Anjali
@@ -123,6 +127,7 @@ Fidelity and Diversity
 2. User Prompt
 3. Assistant Prompt
 ```
+
 
 
 
