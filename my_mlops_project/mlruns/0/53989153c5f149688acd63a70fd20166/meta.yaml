@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/53989153c5f149688acd63a70fd20166/artifacts
+end_time: 1756662928361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53989153c5f149688acd63a70fd20166
+run_name: enthused-frog-861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756662928128
+status: 3
+tags: []
+user_id: NiranjanJannapureddy

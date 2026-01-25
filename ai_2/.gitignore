@@ -1,0 +1,18 @@
+# Environment variable files
+# .env
+
+# Python bytecode
+*.pyc
+
+# Python cache directories
+__pycache__/
+pycache/
+
+# Jupyter Notebook checkpoints
+*.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Virtual environment
+venv/
