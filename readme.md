@@ -8,7 +8,7 @@
 ## RAG
 ## Document cracking
 ## Modalities
-## Rag architecture
+## Rag architecture - https://www.youtube.com/watch?v=o126p1QN_RI
 ![image](https://github.com/user-attachments/assets/bfcb00a2-9203-4acc-9856-5e3a9074054a)
 ## Prompt Engineering
 ```
@@ -133,6 +133,7 @@ Fidelity and Diversity
 2. User Prompt
 3. Assistant Prompt
 ```
+
 
 
 
