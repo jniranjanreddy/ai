@@ -5,10 +5,10 @@
 ## Prep Exam - https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-ai-102-plan-and-manage-an-azure-ai-solution
 ## https://www.exampro.co/ai-900
 ## https://www.exampro.co/ai-102
-## RAG
+## RAG - https://www.youtube.com/watch?v=o126p1QN_RI
 ## Document cracking
 ## Modalities
-## Rag architecture - https://www.youtube.com/watch?v=o126p1QN_RI
+## Rag architecture - 
 ![image](https://github.com/user-attachments/assets/bfcb00a2-9203-4acc-9856-5e3a9074054a)
 ## Prompt Engineering
 ```
@@ -133,6 +133,7 @@ Fidelity and Diversity
 2. User Prompt
 3. Assistant Prompt
 ```
+
 
 
 
