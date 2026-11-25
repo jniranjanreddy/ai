@@ -1,4 +1,6 @@
 ## OpenAI
+## https://www.youtube.com/watch?v=7xTGNNLPyMI
+## https://www.youtube.com/watch?v=zjkBMFhNj_g&list=PLAqhIrjkxbuW9U8-vZ_s_cjKPT_FqRStI
 ## Langchain - https://www.youtube.com/watch?v=_FpT1cwcSLg&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar&index=2
 ## Gen AI - full course - https://www.youtube.com/watch?v=mEsleV16qdo
 ## Azure AI 102 - https://www.youtube.com/watch?v=scJ4mobwjBQ&t=48s
